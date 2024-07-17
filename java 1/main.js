@@ -1,0 +1,10 @@
+ let savol = prompt('Ismingizni kriting')
+ let savol1 = prompt('Familiyangizni kiriting')
+ let savol2 = prompt('Yoshingizni kiriting')
+ let savol3 = prompt('Yoqtirgan faningiz')
+ let savol4 = prompt('Yashash manziliz')
+ console.log(' Sizni Ismingiz ' + savol);
+ console.log(' Sizning familiyangiz ' + savol1)
+ console.log(' Sizning yoshingiz ' + savol2) 
+ console.log(' Sizning yoshingiz ' + savol3) 
+ console.log(' Sizning yashash manzilingiz ' + savol4) 
